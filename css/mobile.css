@@ -145,3 +145,14 @@
     font-size: 2rem;
   }
 }
+
+@media (max-device-width: 768px) {
+  #header-home {
+    height: 10rem;
+    border-bottom: 3px solid var(--primary-color);
+    background-position: 20% 30%;
+  }
+  #header-home .header-content {
+    display: none;
+  }
+}
