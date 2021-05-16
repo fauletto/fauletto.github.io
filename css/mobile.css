@@ -52,19 +52,7 @@
   }
 
   .project-tile:hover .project-text {
-    position: absolute;
-    text-transform: uppercase;
-    font-size: 1.2rem;
-    opacity: 0.7;
-    margin: 0;
-    text-align: center;
-    z-index: 1;
-    color: var(--white);
-    transition: none;
-    transition-delay: 300ms;
-    width: 100%;
-    top: 0;
-    transform: none;
+    display: none;
   }
 
   #contact-section .section-head {
