@@ -424,7 +424,8 @@ input[class^="btn-"]:hover {
 .project-img img {
   height: 360px;
   width: 100%;
-  object-fit: center cover;
+  object-fit: cover;
+  object-position: center;
   transform: translateZ(0);
   display: block;
   transition: transform 750m cubic-bezier(0.2, 1, 0.3, 1);
