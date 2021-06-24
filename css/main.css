@@ -170,6 +170,8 @@ input[class^="btn-"]:hover {
   width: 70px;
   height: 70px;
   color: var(--white);
+  padding: 0;
+  margin-left: 10px;
 }
 
 #main-nav {
@@ -189,15 +191,16 @@ input[class^="btn-"]:hover {
 }
 
 #main-nav li {
-  padding: 0.75rem 1rem;
+  padding: 1rem;
 }
 
 #main-nav a {
   text-decoration: none;
+  font-size: 1.5rem;
   color: var(--white);
   text-transform: uppercase;
   border-bottom: 2px transparent solid;
-  padding-bottom: 0.5rem;
+
   transition: border-color 0.5s;
 }
 
