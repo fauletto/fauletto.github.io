@@ -275,17 +275,17 @@ input[class^="btn-"]:hover {
   color: #db4437;
   border: 2px #db4437 solid;
 }
-#main-footer .footer-content .social-links .fa-twitter:hover {
-  color: #1da1f2;
-  border: 2px #1da1f2 solid;
+#main-footer .footer-content .social-links .fa-linkedin-in:hover {
+  color: #0072b1;
+  border: 2px #0072b1 solid;
 }
 #main-footer .footer-content .social-links .fa-github:hover {
   color: #161b22;
   border: 2px #161b22 solid;
 }
-#main-footer .footer-content .social-links .fa-instagram:hover {
-  color: #e1306c;
-  border: 2px #e1306c solid;
+#main-footer .footer-content .social-links .fa-twitter:hover {
+  color: #1da1f2;
+  border: 2px #1da1f2 solid;
 }
 #main-footer .footer-content .social-links .fa-free-code-camp:hover {
   color: #1b1b32;
